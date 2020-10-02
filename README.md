@@ -1,6 +1,9 @@
+// this program is used to print a star(*) pattern
+
 package TypesOfPatterns;
 import java.util.Scanner;
-public class box {
+// public is a Java keyword which declares a member's access as public. Public members are visible to all other classes. This means that any other class can access a public field //or method. Further, other classes can modify public fields unless the field is declared as fina
+public class box 
 
 	public static void main(String[] args) {
 		
